@@ -1,0 +1,34 @@
+// #############################################################################################
+//  Assignment: 1 
+//  Milestone : 4
+// #############################################################################################
+//  Student Name  : Sepehr Alipour 
+//  Student ID    : 107296212
+//  Student Email : salipour2@myseneca.ca
+//  Course Section: IPC 144 NMM
+// #############################################################################################
+
+
+
+1. In my point of view, when we will go to the industry, 
+we will face customers that they expect to develop some programs with their output result.
+For example, consider the front-end developer as a programmer,
+ they are responsible for working on the design file that the designer provides them and they should develop the expected design.
+ So we need to pay attention to details now in order to be a detailed oriented programmers in future.
+ 
+2. The name of the files should be short and expressive, avoid using special characters,
+ we can use the "camelCase" name convention.
+ The name should point to the content and the functionality of the context of a file.
+ Also, in header files, we always keep our prototypes and in the c files,
+ we develop our function bodies. Therefore, first of all, by choosing the same name for header and source code files,
+ we are convenient to find the files in the list of solution explorers. On the other hand,
+ we can collaborate with team members simply if we follow this structure for all our files in maintenance codes.
+ For example in the "accountTicketingUI.h" and "accountTicketingUI.c" files,
+ we can recognize that the content of the file is related to showing the output,
+ and the codes inside of them are developed for listing or printing some information.
+ 
+3. Cascading menu system framework means that we use menus and sub-menus nested in our program to categorize and classify our menu design.
+ The most popular usage of framework is on the websites that we call "menus" or using filters
+ that end users are able to narrow down the total list of options before making a final selection.
+ For example, when we want to modify an existing account we show another menu to allow users to choose an update account type,
+ person data and login data as well.

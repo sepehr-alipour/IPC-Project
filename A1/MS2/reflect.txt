@@ -1,0 +1,25 @@
+
+// #############################################################################################
+// Student Name  : Sepehr Alipour 
+//  Student ID    : 107296212
+//  Student Email : salipour2@myseneca.ca
+//  Course Section: IPC 144 NMM
+// #############################################################################################
+
+1. Implementing getCString function was the chalangable fuction that I have
+faced in this project. First of all I implemented the function prototype with instruction that
+explained in the pdf file and everything work correctly in mileston 1 while in mileston number 2
+there are different samples for testing the functionality of getCString. I found that there is  a bug
+to get string with space character. So The solution was soled by runnig the program in debug mode and checkig the inputs 
+that user entered I figured out that I need to add %[^\n]%c in scanf to solve the issue. 
+
+2. By using helper functions we are able to write modular codes by implementing blocks of codes.
+Also, instead of writing the new function which the logic is the same and the output is different, we can implemented
+one helper function and use it as many as we need in another functions. Moreover, we can benefit from helper functions
+when we have messy codes to have a clean and maintainable code. If any bug appear in our program, we are aware that in wich
+helper function we can find the issue.
+
+3. Structure designed for packing different data type together. The important advantage of the structures is that it can 
+handle multi data type while arrays are not able to do. We can store and access the data relating to one person without losing
+the particular identity even with an enormous amount of data. Finally, by having bunch of data in one structure we can organize the code
+to have more clean code.
