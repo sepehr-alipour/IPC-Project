@@ -1,0 +1,7 @@
+﻿  a2ms1.c
+  account.c
+  accountTicketingUI.c
+D:\dev\project\Seneca\IPC_144_NMM\A2\MS1\accountTicketingUI.c(117,17): warning C4101: 'indexAccount': unreferenced local variable
+D:\dev\project\Seneca\IPC_144_NMM\A2\MS1\accountTicketingUI.c(117,14): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  a2ms1.vcxproj -> D:\dev\project\Seneca\IPC_144_NMM\A2\MS1\Debug\a2ms1.exe
